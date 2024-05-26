@@ -83,19 +83,19 @@ badges:
   badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Leadership
-  percentage: 85
-  color: blue
+  name: Interpersonal Communication
+  percentage: 95
+  color: green
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 85
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
-  color: orange
+  name: Hard working
+  percentage: 90
+  color: blue
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator

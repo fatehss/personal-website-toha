@@ -21,44 +21,38 @@ buttons:
 
 # your projects
 projects:
-- name: Kubernetes
-  logo: /images/sections/projects/kubernetes.png
-  role: Contributor
-  timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
-  tags: ["professional", "kubernetes", "cloud"]
+- name: MedAide AI Database 
+  logo: /images/sections/projects/medaide.png
+  role: Creator + Developer
+  timeline: "May 2024"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.youtube.com/watch?v=0E2VGkUw9dQ"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: AI-augmented medical database agent that can perform CRUD on MongoDB via plain english. Won "Best Overall" of DoIt Hackathon at Memorial University in St. Johns.
+  tags: ["professional", "AI", "javascript"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
-  role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
+- name: AWS CLI App
+  logo: /images/sections/projects/aws.png
+  role: Creator
+  timeline: "Feb 2024"
+  repo: https://github.com/fatehss/cloud-deployer-cli
   #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
+  summary: Command line app that deploys customizable 3-tier architecture on AWS. Made to gain appreciation of AWS and Terraform.
   tags: ["professional", "machine-learning"]
 
-- name: A sample academic paper
-  role: Team Lead
-  timeline: "Jan 2017 - Nov 2017"
-  url: "https://www.example.com"
-  summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente eius reprehenderit animi suscipit autem eligendi esse amet aliquid error eum. Accusantium distinctio soluta aliquid quas placeat modi suscipit eligendi nisi.
-  tags: ["academic","iot"]
 
-- name: Nocode
-  logo: /images/sections/projects/no-code.png
-  role: Nothing
-  timeline: "Oct 2019 - Dec 2019"
-  repo: https://github.com/kelseyhightower/nocode
+- name: StudySync
+  logo: /images/sections/projects/study-sync-logo.png
+  role: Developer
+  timeline: "March 2023"
+  repo: https://github.com/myCoalSmells/study_sync
   #url: ""
-  summary: The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-  tags: ["hobby", "fun"]
+  summary: Full-stack application intended to match UCLA students to others in the same classes by looking at their overlapping schedules. Like Tinder, but for studying!
+  tags: ["academic", "fun"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
+- name: Spotify Recommendation Project
+  logo: /images/sections/projects/spotify-logo.png
+  role: Creator
+  timeline: "January 2023"
+  repo: https://github.com/fatehss/Spotify-Recommendation-Project
+  summary: Data science project involving creating a new method of recommending songs based on data from Kaggle dataset, using a novel graph algorithm I devised. It works surprisingly well.
+  tags: ["academic", "fun", "data-science"]

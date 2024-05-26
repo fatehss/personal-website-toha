@@ -54,22 +54,12 @@ degrees:
   institution:
     name: British International School Riyadh
     logo: /images/sections/education/bisr-logo.jpg
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: True
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithms "\t "asdfa
-      achieved: A A A A
-      outOf: 4
-    - name: Machine Learning
-      achieved: 3.80
-      outOf: 4
-    - name: Operating Systems
-      achieved: 3.5
-      outOf: 4
-    - name: Mathematical Optimization
-      achieved: 3.75
-      outOf: 4
-
+  custonSections: #(optional)
+    - name: A-Level
+      content: A A A A
+      timeframe: 204
+    - name: GCSE
+      content: 9x A*, 1x A
+    - name: SAT
+      content: 1570
 
