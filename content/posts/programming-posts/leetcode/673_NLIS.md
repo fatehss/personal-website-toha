@@ -1,6 +1,6 @@
 ---
 title: "673. Number of Longest Increasing Subsequence"
-date: 2024-06-12T19:54:00-02:30
+date: 2024-07-03T09:54:00-02:30
 hero: /images/posts/programming-posts/leetcode/673_NLIS_hero.jpg
 menu:
   sidebar:
