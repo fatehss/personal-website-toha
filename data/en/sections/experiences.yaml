@@ -3,7 +3,7 @@ section:
   name: Work History
   id: experiences
   enable: true
-  weight: 5
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true 
