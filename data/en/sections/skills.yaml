@@ -19,7 +19,7 @@ skills:
 
 - name: Python 
   logo: /images/sections/skills/python.png
-  summary: "Used extensively for scripting and data science-related work."
+  summary: "Used extensively for back-end web development, as well as scripting and data-science-related work."
 
 - name: AWS
   logo: /images/sections/skills/aws.png
