@@ -18,8 +18,7 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Recognition Robotics specializes in robotics, computer vision, and low-level robotics software.
-  positions:
+    overview: Atlantiq AI specializes in making AI automation solutions. Its flagship product Jarbiz is an enterprise-level RAG Q-A as well as report-geneation system.
   - designation: Backend Python Developer
     start: May 2024
     end: 
