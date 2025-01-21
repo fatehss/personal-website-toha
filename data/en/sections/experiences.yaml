@@ -18,7 +18,8 @@ experiences:
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Atlantiq AI specializes in making AI automation solutions. Its flagship product Jarbiz is an enterprise-level RAG Q-A as well as report-geneation system.
+    overview: Atlantiq AI specializes in making AI automation solutions. Its flagship product Jarbiz is an enterprise-level report generation system that is build atop of it's proprietary RAG Q-A system which focuses on maximizing the quality of the responses at any cost.
+  positions:
   - designation: Backend Python Developer
     start: May 2024
     end: 
